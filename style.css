@@ -33,6 +33,13 @@
     background-color: salmon;
     color: white;
 }
+#food{
+    color: white;
+}
+
+#drink{
+    color: white;
+}
 /* 
 #drink-images {
     height: 400px;
