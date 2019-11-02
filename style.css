@@ -1,12 +1,40 @@
 #Row1 {
-    background-color: beige;
+    background-color: lightgray;
 }
 
 #Row2 {
-    background-color: aqua;
+    background-color: lightgray;
 }
 
+
+#food-button{
+    background-color: salmon;
+}
+
+#clear-button{
+    background-color: salmon;
+}
+
+#drink-button{
+    background-color: salmon;
+}
+
+#clear-button2{
+    background-color: salmon;
+}
+
+
+.recipebutton{
+    background-color: salmon;
+    color: white;
+}
+
+.drinksbutton{
+    background-color: salmon;
+    color: white;
+}
+/* 
 #drink-images {
     height: 400px;
     width: 280px;
-}
+} */
